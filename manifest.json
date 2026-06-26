@@ -1,10 +1,10 @@
 {
-  "name": "비즈니스 영어 빈칸 채우기 훈련",
-  "short_name": "비즈 영어",
-  "start_url": "./TalkFile_business_english_fillblank_v2.html.html",
+  "name": "비즈니스 영어 20문장 루틴 챌린지",
+  "short_name": "Biz20",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4a90e2",
+  "background_color": "#f1f5f9",
+  "theme_color": "#3b82f6",
   "orientation": "portrait",
   "icons": [
     {
